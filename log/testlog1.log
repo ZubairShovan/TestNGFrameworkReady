@@ -1,0 +1,195 @@
+2022-07-16 00:38:08,086 [main] INFO eBanking - SET UP
+2022-07-16 00:38:08,160 [main] INFO eBanking - TEAR DOWN
+2022-07-16 00:39:15,089 [main] INFO eBanking - SET UP
+2022-07-16 00:39:15,146 [main] INFO eBanking - TEAR DOWN
+2022-07-16 00:43:57,274 [main] INFO eBanking - SET UP
+2022-07-16 00:43:58,300 [main] INFO eBanking - URL is opened.
+2022-07-16 00:43:59,800 [main] INFO eBanking - LoginTest passed
+2022-07-16 00:43:59,884 [main] INFO eBanking - TEAR DOWN
+2022-07-16 02:21:54,405 [main] INFO eBanking - SET UP
+2022-07-16 02:21:54,447 [main] INFO eBanking - URL is opened.
+2022-07-16 02:21:54,931 [main] INFO eBanking - TEAR DOWN
+2022-07-16 02:23:23,721 [main] INFO eBanking - SET UP
+2022-07-16 02:23:23,818 [main] INFO eBanking - URL is opened.
+2022-07-16 02:23:24,379 [main] INFO eBanking - TEAR DOWN
+2022-07-16 02:24:31,796 [main] INFO eBanking - SET UP
+2022-07-16 02:24:31,809 [main] INFO eBanking - URL is opened.
+2022-07-16 02:24:32,993 [main] INFO eBanking - LoginTest passed
+2022-07-16 02:24:33,055 [main] INFO eBanking - TEAR DOWN
+2022-07-16 02:52:49,924 [main] INFO eBanking - SET UP
+2022-07-16 02:52:50,027 [main] INFO eBanking - URL is opened.
+2022-07-16 02:52:51,253 [main] INFO eBanking - LoginTest passed
+2022-07-16 02:52:51,339 [main] INFO eBanking - TEAR DOWN
+2022-07-16 21:58:27,783 [main] INFO eBanking - SET UP
+2022-07-16 21:58:27,889 [main] INFO eBanking - URL is opened.
+2022-07-16 21:58:28,543 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:02:00,250 [main] INFO eBanking - SET UP
+2022-07-16 22:02:00,262 [main] INFO eBanking - URL is opened.
+2022-07-16 22:02:00,693 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:03:33,959 [main] INFO eBanking - SET UP
+2022-07-16 22:03:34,090 [main] INFO eBanking - URL is opened.
+2022-07-16 22:03:34,436 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:05:14,761 [main] INFO eBanking - SET UP
+2022-07-16 22:05:14,773 [main] INFO eBanking - URL is opened.
+2022-07-16 22:05:15,152 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:07:48,530 [main] INFO eBanking - SET UP
+2022-07-16 22:07:48,542 [main] INFO eBanking - URL is opened.
+2022-07-16 22:07:48,895 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:09:05,796 [main] INFO eBanking - SET UP
+2022-07-16 22:09:05,810 [main] INFO eBanking - URL is opened.
+2022-07-16 22:09:06,177 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:10:45,751 [main] INFO eBanking - SET UP
+2022-07-16 22:10:45,763 [main] INFO eBanking - URL is opened.
+2022-07-16 22:10:45,989 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:11:02,539 [main] INFO eBanking - SET UP
+2022-07-16 22:11:02,551 [main] INFO eBanking - URL is opened.
+2022-07-16 22:11:07,783 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:13:50,767 [main] INFO eBanking - SET UP
+2022-07-16 22:13:50,915 [main] INFO eBanking - URL is opened.
+2022-07-16 22:13:51,516 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:14:28,895 [main] INFO eBanking - SET UP
+2022-07-16 22:14:28,906 [main] INFO eBanking - URL is opened.
+2022-07-16 22:14:29,319 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:14:47,423 [main] INFO eBanking - SET UP
+2022-07-16 22:14:47,435 [main] INFO eBanking - URL is opened.
+2022-07-16 22:14:47,811 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:19:08,842 [main] INFO eBanking - SET UP
+2022-07-16 22:19:08,854 [main] INFO eBanking - URL is opened.
+2022-07-16 22:19:09,216 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:21:01,609 [main] INFO eBanking - SET UP
+2022-07-16 22:21:01,621 [main] INFO eBanking - URL is opened.
+2022-07-16 22:21:01,843 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:21:47,345 [main] INFO eBanking - SET UP
+2022-07-16 22:21:47,357 [main] INFO eBanking - URL is opened.
+2022-07-16 22:21:47,701 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:22:08,329 [main] INFO eBanking - SET UP
+2022-07-16 22:22:08,341 [main] INFO eBanking - URL is opened.
+2022-07-16 22:23:10,722 [main] INFO eBanking - SET UP
+2022-07-16 22:23:10,734 [main] INFO eBanking - URL is opened.
+2022-07-16 22:23:11,261 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:28:49,936 [main] INFO eBanking - SET UP
+2022-07-16 22:28:50,048 [main] INFO eBanking - URL is opened.
+2022-07-16 22:28:50,915 [main] INFO eBanking - LoginTest passed
+2022-07-16 22:28:51,159 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:29:49,732 [main] INFO eBanking - SET UP
+2022-07-16 22:29:49,748 [main] INFO eBanking - URL is opened.
+2022-07-16 22:29:51,388 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:32:32,604 [main] INFO eBanking - SET UP
+2022-07-16 22:32:32,617 [main] INFO eBanking - URL is opened.
+2022-07-16 22:32:33,169 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:33:51,411 [main] INFO eBanking - SET UP
+2022-07-16 22:33:51,423 [main] INFO eBanking - URL is opened.
+2022-07-16 22:33:51,932 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:34:46,430 [main] INFO eBanking - SET UP
+2022-07-16 22:34:46,441 [main] INFO eBanking - URL is opened.
+2022-07-16 22:34:46,955 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:35:08,011 [main] INFO eBanking - SET UP
+2022-07-16 22:35:08,023 [main] INFO eBanking - URL is opened.
+2022-07-16 22:35:08,653 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:35:32,335 [main] INFO eBanking - SET UP
+2022-07-16 22:35:32,347 [main] INFO eBanking - URL is opened.
+2022-07-16 22:35:32,865 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:40:22,844 [main] INFO eBanking - SET UP
+2022-07-16 22:40:22,855 [main] INFO eBanking - URL is opened.
+2022-07-16 22:40:24,009 [main] INFO eBanking - LoginTest passed
+2022-07-16 22:40:24,267 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:41:09,428 [main] INFO eBanking - SET UP
+2022-07-16 22:41:09,440 [main] INFO eBanking - URL is opened.
+2022-07-16 22:41:09,956 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:41:48,002 [main] INFO eBanking - SET UP
+2022-07-16 22:41:48,014 [main] INFO eBanking - URL is opened.
+2022-07-16 22:41:48,604 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:42:51,761 [main] INFO eBanking - SET UP
+2022-07-16 22:42:51,773 [main] INFO eBanking - URL is opened.
+2022-07-16 22:42:52,348 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:43:48,337 [main] INFO eBanking - SET UP
+2022-07-16 22:43:48,349 [main] INFO eBanking - URL is opened.
+2022-07-16 22:43:49,551 [main] INFO eBanking - ChromeDriver: chrome on WINDOWS (009a038604eeee3b4b067e3ec2372c9c)
+2022-07-16 22:43:49,565 [main] INFO eBanking - LoginTest passed
+2022-07-16 22:43:49,826 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:44:21,276 [main] INFO eBanking - SET UP
+2022-07-16 22:44:21,287 [main] INFO eBanking - URL is opened.
+2022-07-16 22:44:22,391 [main] INFO eBanking - ChromeDriver: chrome on WINDOWS (1d0553cc5bce0dd7dd54dc7cb9503a9d)
+2022-07-16 22:44:22,414 [main] INFO eBanking - LoginTest passed
+2022-07-16 22:44:22,675 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:44:54,606 [main] INFO eBanking - SET UP
+2022-07-16 22:44:54,618 [main] INFO eBanking - URL is opened.
+2022-07-16 22:44:55,696 [main] INFO eBanking - ChromeDriver: chrome on WINDOWS (a966cb8522c081a33f75429308ffdb89)
+2022-07-16 22:44:55,948 [main] INFO eBanking - Screenshot loginTest.png was taken.
+2022-07-16 22:44:55,949 [main] INFO eBanking - LoginTest failed
+2022-07-16 22:44:56,212 [main] INFO eBanking - TEAR DOWN
+2022-07-16 22:46:50,846 [main] INFO eBanking - SET UP
+2022-07-16 22:46:50,858 [main] INFO eBanking - URL is opened.
+2022-07-16 22:46:52,372 [main] INFO eBanking - ChromeDriver: chrome on WINDOWS (57539ae155cb16d3feec9e159f086472)
+2022-07-16 22:46:52,546 [main] INFO eBanking - Screenshot loginTest.png was taken.
+2022-07-16 22:46:52,546 [main] INFO eBanking - LoginTest failed
+2022-07-16 22:46:52,748 [main] INFO eBanking - TEAR DOWN
+2022-07-17 01:41:21,879 [main] INFO eBanking - SET UP
+2022-07-17 01:41:26,308 [main] INFO eBanking - TEAR DOWN
+2022-07-17 01:47:36,468 [main] INFO eBanking - SET UP
+2022-07-17 01:48:11,410 [main] INFO eBanking - TEAR DOWN
+2022-07-17 01:51:11,000 [main] INFO eBanking - SET UP
+2022-07-17 01:51:44,881 [main] INFO eBanking - TEAR DOWN
+2022-07-17 01:55:18,195 [main] INFO eBanking - SET UP
+2022-07-17 01:55:24,034 [main] INFO eBanking - TEAR DOWN
+2022-07-17 01:56:55,472 [main] INFO eBanking - SET UP
+2022-07-17 01:56:58,119 [main] INFO eBanking - Login was successful
+2022-07-17 01:57:00,733 [main] INFO eBanking - TEAR DOWN
+2022-07-17 01:58:59,864 [main] INFO eBanking - SET UP
+2022-07-17 01:59:00,709 [main] INFO eBanking - Login with UserName: mngr424948
+2022-07-17 01:59:02,056 [main] INFO eBanking - Login with UserName: SHOVAN
+2022-07-17 01:59:02,077 [main] INFO eBanking - Login with UserName: ZUBAIR
+2022-07-17 01:59:02,089 [main] INFO eBanking - Login with UserName: mngr424948
+2022-07-17 01:59:03,373 [main] INFO eBanking - Login with UserName: ALAM
+2022-07-17 01:59:14,329 [main] INFO eBanking - TEAR DOWN
+2022-07-17 02:04:05,942 [main] INFO eBanking - SET UP
+2022-07-17 02:04:06,831 [main] INFO eBanking - Login with UserName: mngr424948
+2022-07-17 02:04:08,983 [main] INFO eBanking - Login was successful
+2022-07-17 02:04:09,021 [main] INFO eBanking - Login with UserName: SHOVAN
+2022-07-17 02:04:10,963 [main] INFO eBanking - Login with UserName: ZUBAIR
+2022-07-17 02:04:12,775 [main] INFO eBanking - Login with UserName: mngr424948
+2022-07-17 02:04:13,983 [main] INFO eBanking - Login with UserName: ALAM
+2022-07-17 02:04:14,190 [main] INFO eBanking - TEAR DOWN
+2022-07-17 02:49:34,789 [main] INFO eBanking - SET UP
+2022-07-17 02:49:35,961 [main] INFO eBanking - Login with UserName: mngr424948
+2022-07-17 02:49:37,311 [main] INFO eBanking - Login with UserName: SHOVAN
+2022-07-17 02:49:37,345 [main] INFO eBanking - Login with UserName: ZUBAIR
+2022-07-17 02:49:37,353 [main] INFO eBanking - Login with UserName: mngr424948
+2022-07-17 02:49:39,713 [main] INFO eBanking - Login with UserName: ALAM
+2022-07-17 02:49:39,923 [main] INFO eBanking - TEAR DOWN
+2022-07-17 02:51:16,712 [main] INFO eBanking - SET UP
+2022-07-17 02:51:16,831 [main] INFO eBanking - User name is provided
+2022-07-17 02:51:17,058 [main] INFO eBanking - Passsword is provided
+2022-07-17 02:51:21,009 [main] INFO eBanking - providing customer details....
+2022-07-17 02:51:38,309 [main] INFO eBanking - validation started....
+2022-07-17 02:51:38,323 [main] INFO eBanking - test case passed....
+2022-07-17 02:51:38,514 [main] INFO eBanking - TEAR DOWN
+2022-07-17 21:27:51,728 [main] INFO eBanking - SET UP
+2022-07-17 21:27:52,006 [main] INFO eBanking - User name is provided
+2022-07-17 21:27:52,111 [main] INFO eBanking - Passsword is provided
+2022-07-17 21:27:52,519 [main] INFO eBanking - TEAR DOWN
+2022-07-17 21:29:13,779 [main] INFO eBanking - SET UP
+2022-07-17 21:29:13,884 [main] INFO eBanking - User name is provided
+2022-07-17 21:29:13,953 [main] INFO eBanking - Passsword is provided
+2022-07-17 21:29:18,553 [main] INFO eBanking - providing customer details....
+2022-07-17 21:29:28,839 [main] INFO eBanking - TEAR DOWN
+2022-07-17 22:04:26,611 [main] INFO eBanking - SET UP
+2022-07-17 22:04:26,806 [main] INFO eBanking - User name is provided
+2022-07-17 22:04:26,889 [main] INFO eBanking - Passsword is provided
+2022-07-17 22:04:30,537 [main] INFO eBanking - providing customer details....
+2022-07-17 22:04:40,835 [main] INFO eBanking - TEAR DOWN
+2022-07-17 22:14:23,103 [main] INFO eBanking - SET UP
+2022-07-17 22:14:23,212 [main] INFO eBanking - URL is opened.
+2022-07-17 22:14:24,192 [main] INFO eBanking - ChromeDriver: chrome on WINDOWS (36da99240317b6e464aff2d213f9b839)
+2022-07-17 22:14:24,204 [main] INFO eBanking - LoginTest passed
+2022-07-17 22:14:24,465 [main] INFO eBanking - TEAR DOWN
+2022-07-18 00:28:47,882 [main] INFO eBanking - SET UP
+2022-07-18 00:28:48,000 [main] INFO eBanking - URL is opened.
+2022-07-18 00:28:49,215 [main] INFO eBanking - ChromeDriver: chrome on WINDOWS (1fdc234fb6b3a93b9fc5a6db7e8b39cf)
+2022-07-18 00:28:49,228 [main] INFO eBanking - LoginTest passed
+2022-07-18 00:28:49,422 [main] INFO eBanking - TEAR DOWN
+2022-07-18 00:37:35,167 [main] INFO eBanking - SET UP
+2022-07-18 00:37:35,271 [main] INFO eBanking - URL is opened.
+2022-07-18 00:37:36,322 [main] INFO eBanking - ChromeDriver: chrome on WINDOWS (15cbd7646a5e4d066c35288b4d72ca0e)
+2022-07-18 00:37:36,332 [main] INFO eBanking - LoginTest passed
+2022-07-18 00:37:36,469 [main] INFO eBanking - TEAR DOWN

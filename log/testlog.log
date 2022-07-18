@@ -1,0 +1,113 @@
+2022-07-16 22:34:46,430 - eBanking -INFO - SET UP
+2022-07-16 22:34:46,441 - eBanking -INFO - URL is opened.
+2022-07-16 22:34:46,955 - eBanking -INFO - TEAR DOWN
+2022-07-16 22:35:08,011 - eBanking -INFO - SET UP
+2022-07-16 22:35:08,023 - eBanking -INFO - URL is opened.
+2022-07-16 22:35:08,653 - eBanking -INFO - TEAR DOWN
+2022-07-16 22:35:32,335 - eBanking -INFO - SET UP
+2022-07-16 22:35:32,347 - eBanking -INFO - URL is opened.
+2022-07-16 22:35:32,865 - eBanking -INFO - TEAR DOWN
+2022-07-16 22:40:22,844 - eBanking -INFO - SET UP
+2022-07-16 22:40:22,855 - eBanking -INFO - URL is opened.
+2022-07-16 22:40:24,009 - eBanking -INFO - LoginTest passed
+2022-07-16 22:40:24,267 - eBanking -INFO - TEAR DOWN
+2022-07-16 22:41:09,428 - eBanking -INFO - SET UP
+2022-07-16 22:41:09,440 - eBanking -INFO - URL is opened.
+2022-07-16 22:41:09,956 - eBanking -INFO - TEAR DOWN
+2022-07-16 22:41:48,002 - eBanking -INFO - SET UP
+2022-07-16 22:41:48,014 - eBanking -INFO - URL is opened.
+2022-07-16 22:41:48,604 - eBanking -INFO - TEAR DOWN
+2022-07-16 22:42:51,761 - eBanking -INFO - SET UP
+2022-07-16 22:42:51,773 - eBanking -INFO - URL is opened.
+2022-07-16 22:42:52,348 - eBanking -INFO - TEAR DOWN
+2022-07-16 22:43:48,337 - eBanking -INFO - SET UP
+2022-07-16 22:43:48,349 - eBanking -INFO - URL is opened.
+2022-07-16 22:43:49,551 - eBanking -INFO - ChromeDriver: chrome on WINDOWS (009a038604eeee3b4b067e3ec2372c9c)
+2022-07-16 22:43:49,565 - eBanking -INFO - LoginTest passed
+2022-07-16 22:43:49,826 - eBanking -INFO - TEAR DOWN
+2022-07-16 22:44:21,276 - eBanking -INFO - SET UP
+2022-07-16 22:44:21,287 - eBanking -INFO - URL is opened.
+2022-07-16 22:44:22,391 - eBanking -INFO - ChromeDriver: chrome on WINDOWS (1d0553cc5bce0dd7dd54dc7cb9503a9d)
+2022-07-16 22:44:22,414 - eBanking -INFO - LoginTest passed
+2022-07-16 22:44:22,675 - eBanking -INFO - TEAR DOWN
+2022-07-16 22:44:54,606 - eBanking -INFO - SET UP
+2022-07-16 22:44:54,618 - eBanking -INFO - URL is opened.
+2022-07-16 22:44:55,696 - eBanking -INFO - ChromeDriver: chrome on WINDOWS (a966cb8522c081a33f75429308ffdb89)
+2022-07-16 22:44:55,948 - eBanking -INFO - Screenshot loginTest.png was taken.
+2022-07-16 22:44:55,949 - eBanking -INFO - LoginTest failed
+2022-07-16 22:44:56,212 - eBanking -INFO - TEAR DOWN
+2022-07-16 22:46:50,846 - eBanking -INFO - SET UP
+2022-07-16 22:46:50,858 - eBanking -INFO - URL is opened.
+2022-07-16 22:46:52,372 - eBanking -INFO - ChromeDriver: chrome on WINDOWS (57539ae155cb16d3feec9e159f086472)
+2022-07-16 22:46:52,546 - eBanking -INFO - Screenshot loginTest.png was taken.
+2022-07-16 22:46:52,546 - eBanking -INFO - LoginTest failed
+2022-07-16 22:46:52,748 - eBanking -INFO - TEAR DOWN
+2022-07-17 01:41:21,879 - eBanking -INFO - SET UP
+2022-07-17 01:41:26,308 - eBanking -INFO - TEAR DOWN
+2022-07-17 01:47:36,468 - eBanking -INFO - SET UP
+2022-07-17 01:48:11,410 - eBanking -INFO - TEAR DOWN
+2022-07-17 01:51:11,000 - eBanking -INFO - SET UP
+2022-07-17 01:51:44,881 - eBanking -INFO - TEAR DOWN
+2022-07-17 01:55:18,195 - eBanking -INFO - SET UP
+2022-07-17 01:55:24,034 - eBanking -INFO - TEAR DOWN
+2022-07-17 01:56:55,472 - eBanking -INFO - SET UP
+2022-07-17 01:56:58,119 - eBanking -INFO - Login was successful
+2022-07-17 01:57:00,733 - eBanking -INFO - TEAR DOWN
+2022-07-17 01:58:59,864 - eBanking -INFO - SET UP
+2022-07-17 01:59:00,709 - eBanking -INFO - Login with UserName: mngr424948
+2022-07-17 01:59:02,056 - eBanking -INFO - Login with UserName: SHOVAN
+2022-07-17 01:59:02,077 - eBanking -INFO - Login with UserName: ZUBAIR
+2022-07-17 01:59:02,089 - eBanking -INFO - Login with UserName: mngr424948
+2022-07-17 01:59:03,373 - eBanking -INFO - Login with UserName: ALAM
+2022-07-17 01:59:14,329 - eBanking -INFO - TEAR DOWN
+2022-07-17 02:04:05,942 - eBanking -INFO - SET UP
+2022-07-17 02:04:06,831 - eBanking -INFO - Login with UserName: mngr424948
+2022-07-17 02:04:08,983 - eBanking -INFO - Login was successful
+2022-07-17 02:04:09,021 - eBanking -INFO - Login with UserName: SHOVAN
+2022-07-17 02:04:10,963 - eBanking -INFO - Login with UserName: ZUBAIR
+2022-07-17 02:04:12,775 - eBanking -INFO - Login with UserName: mngr424948
+2022-07-17 02:04:13,983 - eBanking -INFO - Login with UserName: ALAM
+2022-07-17 02:04:14,190 - eBanking -INFO - TEAR DOWN
+2022-07-17 02:49:34,789 - eBanking -INFO - SET UP
+2022-07-17 02:49:35,961 - eBanking -INFO - Login with UserName: mngr424948
+2022-07-17 02:49:37,311 - eBanking -INFO - Login with UserName: SHOVAN
+2022-07-17 02:49:37,345 - eBanking -INFO - Login with UserName: ZUBAIR
+2022-07-17 02:49:37,353 - eBanking -INFO - Login with UserName: mngr424948
+2022-07-17 02:49:39,713 - eBanking -INFO - Login with UserName: ALAM
+2022-07-17 02:49:39,923 - eBanking -INFO - TEAR DOWN
+2022-07-17 02:51:16,712 - eBanking -INFO - SET UP
+2022-07-17 02:51:16,831 - eBanking -INFO - User name is provided
+2022-07-17 02:51:17,058 - eBanking -INFO - Passsword is provided
+2022-07-17 02:51:21,009 - eBanking -INFO - providing customer details....
+2022-07-17 02:51:38,309 - eBanking -INFO - validation started....
+2022-07-17 02:51:38,323 - eBanking -INFO - test case passed....
+2022-07-17 02:51:38,514 - eBanking -INFO - TEAR DOWN
+2022-07-17 21:27:51,728 - eBanking -INFO - SET UP
+2022-07-17 21:27:52,006 - eBanking -INFO - User name is provided
+2022-07-17 21:27:52,111 - eBanking -INFO - Passsword is provided
+2022-07-17 21:27:52,519 - eBanking -INFO - TEAR DOWN
+2022-07-17 21:29:13,779 - eBanking -INFO - SET UP
+2022-07-17 21:29:13,884 - eBanking -INFO - User name is provided
+2022-07-17 21:29:13,953 - eBanking -INFO - Passsword is provided
+2022-07-17 21:29:18,553 - eBanking -INFO - providing customer details....
+2022-07-17 21:29:28,839 - eBanking -INFO - TEAR DOWN
+2022-07-17 22:04:26,611 - eBanking -INFO - SET UP
+2022-07-17 22:04:26,806 - eBanking -INFO - User name is provided
+2022-07-17 22:04:26,889 - eBanking -INFO - Passsword is provided
+2022-07-17 22:04:30,537 - eBanking -INFO - providing customer details....
+2022-07-17 22:04:40,835 - eBanking -INFO - TEAR DOWN
+2022-07-17 22:14:23,103 - eBanking -INFO - SET UP
+2022-07-17 22:14:23,212 - eBanking -INFO - URL is opened.
+2022-07-17 22:14:24,192 - eBanking -INFO - ChromeDriver: chrome on WINDOWS (36da99240317b6e464aff2d213f9b839)
+2022-07-17 22:14:24,204 - eBanking -INFO - LoginTest passed
+2022-07-17 22:14:24,465 - eBanking -INFO - TEAR DOWN
+2022-07-18 00:28:47,882 - eBanking -INFO - SET UP
+2022-07-18 00:28:48,000 - eBanking -INFO - URL is opened.
+2022-07-18 00:28:49,215 - eBanking -INFO - ChromeDriver: chrome on WINDOWS (1fdc234fb6b3a93b9fc5a6db7e8b39cf)
+2022-07-18 00:28:49,228 - eBanking -INFO - LoginTest passed
+2022-07-18 00:28:49,422 - eBanking -INFO - TEAR DOWN
+2022-07-18 00:37:35,167 - eBanking -INFO - SET UP
+2022-07-18 00:37:35,271 - eBanking -INFO - URL is opened.
+2022-07-18 00:37:36,322 - eBanking -INFO - ChromeDriver: chrome on WINDOWS (15cbd7646a5e4d066c35288b4d72ca0e)
+2022-07-18 00:37:36,332 - eBanking -INFO - LoginTest passed
+2022-07-18 00:37:36,469 - eBanking -INFO - TEAR DOWN
